@@ -1,0 +1,85 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "2UmMbNHc8FBr98mJFN1k8ISOIHk=",
+			"path": "github.com/garyburd/redigo/internal",
+			"revision": "569eae59ada904ea8db7a225c2b47165af08735a",
+			"revisionTime": "2018-04-04T16:07:26Z"
+		},
+		{
+			"checksumSHA1": "3kM5bMyfqvdCfgQdOb01CR1aA74=",
+			"path": "github.com/garyburd/redigo/redis",
+			"revision": "569eae59ada904ea8db7a225c2b47165af08735a",
+			"revisionTime": "2018-04-04T16:07:26Z"
+		},
+		{
+			"checksumSHA1": "mKall8xfKBPL/a5Ji//i968rLsY=",
+			"path": "github.com/gin-contrib/sse",
+			"revision": "43f0f29dbd2b3f0feeebff91fd9cda22db296938",
+			"revisionTime": "2019-09-05T05:13:34Z"
+		},
+		{
+			"checksumSHA1": "3HZRuMWh3xORpUhl5MYf1WYFgBM=",
+			"path": "github.com/gin-gonic/gin",
+			"revision": "bd5ee1aae2e34e45c7401c3b11c70ac8feac7b41",
+			"revisionTime": "2020-03-24T14:49:34Z"
+		},
+		{
+			"checksumSHA1": "KDq0NvVT/8asRBfhL/R/0fyYd48=",
+			"path": "github.com/gin-gonic/gin/binding",
+			"revision": "bd5ee1aae2e34e45c7401c3b11c70ac8feac7b41",
+			"revisionTime": "2020-03-24T14:49:34Z"
+		},
+		{
+			"checksumSHA1": "qg53v7Qn4pAir0LvAjflsAkDb9Y=",
+			"path": "github.com/gin-gonic/gin/internal/bytesconv",
+			"revision": "bd5ee1aae2e34e45c7401c3b11c70ac8feac7b41",
+			"revisionTime": "2020-03-24T14:49:34Z"
+		},
+		{
+			"checksumSHA1": "GAHho8qMLbDfGoD4w7SX7ZRT56U=",
+			"path": "github.com/gin-gonic/gin/internal/json",
+			"revision": "bd5ee1aae2e34e45c7401c3b11c70ac8feac7b41",
+			"revisionTime": "2020-03-24T14:49:34Z"
+		},
+		{
+			"checksumSHA1": "qKy61c0uwl5rSpuOmNNImsx+b84=",
+			"path": "github.com/gin-gonic/gin/render",
+			"revision": "bd5ee1aae2e34e45c7401c3b11c70ac8feac7b41",
+			"revisionTime": "2020-03-24T14:49:34Z"
+		},
+		{
+			"checksumSHA1": "cMMG97ehMrVNuNbf7x5pGhuZMOI=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "84668698ea25b64748563aa20726db66a6b8d299",
+			"revisionTime": "2020-03-12T22:07:03Z"
+		},
+		{
+			"checksumSHA1": "w80pSHuNAfMzGjyUMGdCmEINCFQ=",
+			"path": "github.com/gorilla/websocket",
+			"revision": "b65e62901fc1c0d968042419e74789f6af455eb9",
+			"revisionTime": "2020-03-19T17:50:51Z"
+		},
+		{
+			"checksumSHA1": "Tet0S+rvMIUeDsIIRHmtOwJfo4A=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "cb30d6282491c185f77d9bec5d25de1bb61a06bc",
+			"revisionTime": "2020-01-28T10:39:42Z"
+		},
+		{
+			"checksumSHA1": "N/xvYptCDcWcmolqAWW92uCGusI=",
+			"path": "github.com/ugorji/go/codec",
+			"revision": "42bc974514ff101a54c6b72a0e4dee29d96c0b26",
+			"revisionTime": "2019-08-12T10:43:08Z"
+		},
+		{
+			"checksumSHA1": "YPOqTCFMxByLZFc6YLE37JnFhxQ=",
+			"path": "gopkg.in/yaml.v2",
+			"revision": "53403b58ad1b561927d19068c655246f2db79d48",
+			"revisionTime": "2020-01-21T17:19:40Z"
+		}
+	],
+	"rootPath": "golang-websocket-redis"
+}
